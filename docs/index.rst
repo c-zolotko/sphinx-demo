@@ -3,7 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to sphinx-test's documentation Yay Yay! YAY AUTOMATION!
 ===============================================================
 .. image:: _static/face.png
 
