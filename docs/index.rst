@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to sphinx-test's documentation Yay Yay! YAY AUTOMATION!
-===============================================
+===============================================================
 .. image:: _static/face.png
 
 .. toctree::
